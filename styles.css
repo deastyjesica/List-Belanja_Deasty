@@ -31,7 +31,7 @@ h3 {
 }
 
 .splash {
-  background-color: black;
+  background-color: blue;
   color: white;
   justify-content: center;
   align-items: center;
@@ -142,7 +142,7 @@ h3 {
   position: absolute;
   top: 0;
   left: 0;
-  background-color: black;
+  background-color: rgb(19, 13, 13);
   /* opacity: .8; */
   z-index: -1;
 }
@@ -167,7 +167,7 @@ h3 {
 .card small {
   text-align: center;
   font-weight: 300;
-  color: rgb(118, 140, 172);
+  color: rgb(98, 148, 224);
 }
 
 .card div {
